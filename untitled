@@ -1,0 +1,11 @@
+<video style="width:100%; height:auto;" autoplay loop >
+				  <source src="" type="video/mp4">				  
+				  Your browser does not support the video tag.
+				</video>
+
+
+<video style="width:100%; height:auto;" autoplay="" loop="" poster=" https://s3.ap-south-1.amazonaws.com/hahusers/images/tvc_wallpaper.jpg">
+				  <source src="https://s3-ap-southeast-1.amazonaws.com/hahops/images/hah.mp4" type="video/mp4">				  
+				  Your browser does not support the video tag.
+	</video>
+				
